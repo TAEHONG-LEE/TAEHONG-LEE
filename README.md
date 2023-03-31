@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1> Hi, I'm Taehong Lee <h1>
 
-<!--
-**TAEHONG-LEE/TAEHONG-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    <h3>
+    Chungnam National University, Computer Science
+    </h3>
+  </em>
+  <em>
+    <h3>
+    Intersted in { Machine Learning, Deep Learning, AI, Entrepreneurship, League Of Legends }
+    </h3>
+  </em>
+</p?
