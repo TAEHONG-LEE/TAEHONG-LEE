@@ -3,7 +3,8 @@
 <p>
   <em>
     <h3>
-    Chungnam National University, Computer Science
+      [Click here to  introduction] ([http://www.google.co.kr](https://github.com/TAEHONG-LEE/Introduce).
+      Chungnam National University, Computer Science
     </h3>
   </em>
   <em>
